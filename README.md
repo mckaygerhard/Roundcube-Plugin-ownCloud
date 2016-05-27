@@ -6,7 +6,7 @@ Features
 --------
 
 * access owncloud with single login (working)
-* interaction attachments with the Roundrive plugin (not tested)
+* interaction attachments with the Roundrive plugin (not tested) #4
 * open files from interaction attachments (not tested) #4
 * open files from interaction external url using RC interface (progress) #4
 
